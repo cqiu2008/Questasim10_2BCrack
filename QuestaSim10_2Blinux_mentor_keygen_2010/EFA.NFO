@@ -1,0 +1,215 @@
+                    ____________   ____________   __________
+                   /      ____  \ /      ____  \ /      __  \
+                  /      /    \_//      /    \_//      /  \  \
+                 /      /___    /      /___    /      /____\  \
+                /      ____/   /      ____/   /      _______   \
+               /      /    _  /      /       /      /       \   \
+              /      /____/ \/      /       /      /         \   \
+              \_____________/\_____/        \_____/           \___\
+              +-----------+ E.F.A. .T.E.A.M. .2.0.1.0 +-----------+
+
+                         EDA FOR ALL Team Presents :
+          ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
+
+                          A Mentor Graphics KeyGen
+
+   ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
+   ≤ﬂ                                                                     ﬂ≤
+   ≤     SUPPLIER : TEAM EFA               RELEASE DATE : 23-Jan-2010      ≤
+   ≤     CRACKER  : TEAM EFA               #'s Files    : 01 Files         ≤
+  ‹≤     PACKAGER : TEAM EFA               PROTECTION   : FlexLM 11       ≤‹
+  ‹  _‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹_    ‹
+  ﬂU≤‹‹             ∞ ‹_                               _‹ ∞             ‹‹≤Uﬂ
+     ﬂ≤UUU≤UU≤‹‹‹ ‹‹≤ﬂ                                   ﬂ≤‹‹ ‹‹‹≤UU≤UUU≤ﬂ
+       U≤ ∞  ﬂﬂ≤UUUUU      R E L E A S E  N O T E S       UUUUU≤ﬂﬂ  ∞ ≤U
+      ﬂﬂ        ≤UUUU                                     UUUU≤        ﬂﬂ
+     ﬂﬂﬂﬂ≤ﬂﬂﬂ ‹≤ﬂ ≤UU ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ≤ﬂﬂ UU≤ ﬂ≤‹ ﬂﬂﬂﬂﬂﬂﬂ
+                  ﬂﬂ≤‹                                   ‹≤ﬂﬂ
+                      ﬂ_                               _ﬂ
+
+                   Mentor Graphics KeyGen Release Notes.
+
+      As Mentor now has gone CRO, making a working license has become an
+      "almost" impossible task.  Also all programs  are now checksum  or
+      CRC32 checked, so any patch will show up and programs will abort.
+
+      This KeyGen was been rewritten  from scratch, so it does  not have
+      any more  an internal  feature list.  It will,  instead, read  and
+      analyse an mgc.pkginfo for features  and use a MGLS.DLL to  verify
+      the sucessfull checkout of them. Will use in the default mode, the
+      current defined files in registry, but may also use user files, if
+      defined in the command line. When searching for Mentor files, will
+      use always the latest versions.
+
+      As this checkout tests relies on third party software (aka Mentor)
+      there is not much to be done, but sit and wait while the tests are
+      done.
+
+      Licenses are divided in four main groups:
+
+      * Atomic:  An  atomic  license  authorizes  the  use  of  a single
+        application or option to an application.
+
+      * Extended: these follow the same rules as the atomics, but may not
+        be present on every package info file.
+
+      * Station:  A station  license usually  ends in  a "_s" suffix and
+        authorizes the use of any applications contained in that station.
+
+      * Composite: A composite license usually ends in a "_c" suffix and
+        typically authorizes the use of more than one application  under
+        the same license, although a composite license does not  usually
+        authorize as many applications as a station license.
+
+      So initially a list of Composite/Station is setup, then the  other
+      features are analysed to see if  they can be checked out by  these
+      or not. If not, they  are marked as Required, because,  after all,
+      YOU WANT ALL features aviable. Evaluation features are listed, but
+      are  discarded, because as  they are checked out first,  they will
+      render the software useless, running it in demo mode.
+
+      The default mode for  licensing is tying the  license to a MAC  or
+      Network adapter, basically known as NodeLocked. It is the  fastest
+      one and does not require  any daemons or services running.  So, it
+      is better to  install a nodelocked  license on each  machine, than
+      mantain a network floating,  and packet consuming, license  server
+      (tied on its local nodelock, MAC or Flexkey).
+
+      Some notes:
+
+      1- Mentor Graphics must be installed before you use this KeyGen!
+         You may still run the MentorKG though, but you must provide the
+         required  package  and dll,  either  in the  current  folder or
+         specifying their locations with the -dll and/or -pkg options if
+         they are in different folders.
+
+      2- When installing a  Mentor product, do it skipping or postponing
+         licensing.
+
+      3- The default FlexLM license file is C:\FlexLM\LICENSE.DAT
+         This is  hardcoded, so  any program  that cannot  find its  own
+         license, will try this one, just in case...
+         FlexLM is installed automatically  when you install any  Mentor
+         product.
+
+      4- Mentor mantains its own license, if you installed one, but  you
+         can simply delete  it by editing  the environment and  registry
+         settings.
+
+      5- On any doubt  regarding the KeyGen,  run it with  the -? option
+         and it will display a help (usage) page.
+
+      6- As the MentorKG requires  access to the registry, it will  only
+         run with administrator privileges on UGA enabled OS.
+
+      7- If the keygen cannot have access rigths on the  Mentor License
+         you may use the license utility to replace the installed one.
+
+ ‹    _‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹_    ‹
+  ﬂU≤‹‹             ∞ ‹_                               _‹ ∞             ‹‹≤Uﬂ
+     ﬂ≤UUU≤UU≤‹‹‹ ‹‹≤ﬂ                                   ﬂ≤‹‹ ‹‹‹≤UU≤UUU≤ﬂ
+       U≤ ∞  ﬂﬂ≤UUUUU      I N S T A L L  N O T E S       UUUUU≤ﬂﬂ  ∞ ≤U
+      ﬂﬂ        ≤UUUU                                     UUUU≤        ﬂﬂ
+     ﬂﬂﬂﬂ≤ﬂﬂﬂ ‹≤ﬂ ≤UU ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ≤ﬂﬂ UU≤ ﬂ≤‹ ﬂﬂﬂﬂﬂﬂﬂﬂ
+            ﬂ     ﬂﬂ≤‹                                   ‹≤ﬂﬂ     ﬂ
+                      ﬂ_                               _ﬂ
+
+        Install all the Mentor products you need, skipping licensing setup.
+
+        Run MentorKG.exe to generate your license.
+
+        Some Mentor KeyGen Options:
+
+        * No options
+          In  this  case, IF  a  Mentor product  is  installed, it  will
+          generate  a  LICENSE.TXT  with ALL  required  features  on the
+          %TEMP% folder and  launch notepad, so  you can save  it to any
+          place you want or edit the  current license so to add the  new
+          generated features.  You may  also install  this file  as your
+          Mentor license file, running the Mentor licensing setup.
+
+        * -patch [patchfolder]
+          The KeyGen will  verify and fix,  if needed, all  files on the
+          Mentor install folder or in patchfolder, if given.
+
+        * -pkg path_to_package
+          The KeyGen will  use the given  path_to_package\mgc.pkginfo to
+          get the features. If it does not find any valid MGLS.DLL  will
+          try to find a valid one in path_to_package.
+
+        * -dll path_to_dll
+          The KeyGen will use the given path_to_dll\MGLS.DLL to checkout
+          the features. If no valid package is found, will try this path
+          also.
+
+        * Other options include  adding  a Serial Number, Notice, Issuer,
+          cheksum, etc. See the usage for more options.
+
+	:D
+
+ ‹    _‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹_    ‹
+  ﬂU≤‹‹             ∞ ‹_                               _‹ ∞             ‹‹≤Uﬂ
+     ﬂ≤UUU≤UU≤‹‹‹ ‹‹≤ﬂ                                   ﬂ≤‹‹ ‹‹‹≤UU≤UUU≤ﬂ
+       U≤ ∞  ﬂﬂ≤UUUUU         G R O U P  N E W S          UUUUU≤ﬂﬂ  ∞ ≤U
+      ﬂﬂ        ≤UUUU                                     UUUU≤        ﬂﬂ
+     ﬂﬂﬂﬂ≤ﬂﬂﬂ ‹≤ﬂ ≤UU ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ≤ﬂﬂ UU≤ ﬂ≤‹ ﬂﬂﬂﬂﬂﬂﬂﬂ
+            ﬂ     ﬂﬂ≤‹                                   ‹≤ﬂﬂ     ﬂ
+                      ﬂ_                               _ﬂ
+
+   As we are the ppl who actually work on the stuff that we release, therefore
+   we try to test it as extensively as we can........
+
+   But some time we can miss some feature... let us know and we will solve the
+   problem.
+
+   We are a group that  have been  working under very  low profile and  we are
+   targetting EDA stuff..
+
+   We are in need of some affils, SUPPLIER, talented CRACKERS and gfxers for
+   completing our crew....
+
+   If you think that you MUST join a nice grp of EDA engineers and keep this
+   amazing job UP,   Just come on EFNET for talk a bit.
+
+   Also remember: We supply this kind of stuff just to allow you to use the
+   costly EDA tools for your personal learning and skill. Any commercial or
+   professional  use  is unfair to  everybody, resulting  only in  thighter
+   security and no real  gain in software  productivity, as seen over these
+   past years.
+
+   SO, if you realy need this program for your daily work, consider buying it.
+
+   Earn money from your work! Use your talents....
+
+   Hope to hear about us more.......
+
+
+   ‹    _‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹_   ‹
+‹                                                                               ‹
+  ﬂU≤‹‹             ∞ ‹_                               _‹ ∞             ‹‹≤Uﬂ
+     ﬂ≤UUU≤UU≤‹‹‹ ‹‹≤ﬂ                                   ﬂ≤‹‹ ‹‹‹≤UU≤UUU≤ﬂ
+       U≤ ∞  ﬂﬂ≤UUUUU    G R O U P  G R E E T I N G S     UUUUU≤ﬂﬂ  ∞ ≤U
+      ﬂﬂ        ≤UUUU                                     UUUU≤        ﬂﬂ
+     ﬂﬂﬂﬂ≤ﬂﬂﬂ ‹≤ﬂ ≤UU ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ≤ﬂﬂ UU≤ ﬂ≤‹ ﬂﬂﬂﬂﬂﬂﬂﬂ
+            ﬂ     ﬂﬂ≤‹                                   ‹≤ﬂﬂ     ﬂ
+                      ﬂ_                               _ﬂ
+
+       Respects goes to all grps who are trying to  make a difference on the
+       scene like *SOS*  and others.....
+
+       Thanks to LONG for the clever idea on fixing licensing here....
+
+ ‹    _‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹_    ‹
+  ﬂU≤‹‹             ∞ ‹_                               _‹ ∞             ‹‹≤Uﬂ
+     ﬂ≤UUU≤UU≤‹‹‹ ‹‹≤ﬂ                                   ﬂ≤‹‹ ‹‹‹≤UU≤UUU≤ﬂ
+       U≤ ∞  ﬂﬂ≤UUUUU      C O N T A C T  I N F O S       UUUUU≤ﬂﬂ  ∞ ≤U
+      ﬂﬂ        ≤UUUU                                     UUUU≤        ﬂﬂ
+     ﬂﬂﬂﬂ≤ﬂﬂﬂ ‹≤ﬂ ≤UU ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ≤ﬂﬂ UU≤ ﬂ≤‹ ﬂﬂﬂﬂﬂﬂﬂﬂ
+    ∞ ‹‹‹_  ﬂ     ﬂﬂ≤‹                                   ‹≤ﬂﬂ     ﬂ  _‹‹‹ ∞
+  ‹‹≤UUU              ﬂ_                               _ﬂ              UUU≤‹‹
+ ﬂ ﬂﬂ≤UU≤‹‹‹             EMAIL : TEAM_EFA@YAHOO.COM              ‹‹‹≤UU≤ﬂﬂ ﬂ
+     ∞    ﬂﬂﬂﬂ≤UU‹‹‹                                       ‹‹‹UU≤ﬂﬂﬂﬂ
+                  ﬂﬂﬂ≤UU‹‹                           ‹‹UU≤ﬂﬂﬂ
+                       ≤UUUU‹                     ‹≤UUU≤
+                        UUU≤ﬂﬂ                   ﬂﬂU≤UU
+
